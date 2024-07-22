@@ -3,7 +3,7 @@
 #### To evaluate the functionality, performance and usability of the OpenCart demo e-commerce website.
 ## Tech Stack used in this project
 ### **JavaScript**
-## **Node.js** 
+### **Node.js** 
 ## Version Control and Testing Tools used:
 ### **Git**
 ### **GitHub**
@@ -18,9 +18,9 @@ AUT URL: https://tutorialsninja.com/demo/
 ## Scope
 <details>
   <summary>Features To Be Tested</summary>
-  * Sign Up
-  * Login
-  * Contact Us
+  ### **Sign Up**
+  ### **Login**
+  ### **Contact Us**
 </details>
 <details>
   <summary>Testing Types</summary>
