@@ -24,16 +24,16 @@ AUT URL: https://tutorialsninja.com/demo/
 </details>
 <details>
   <summary>Testing Types</summary>
-  * Functionality Testing
-  * Performance Testing
-  * Usability Testing
+  <li>Functionality Testing</li>
+  <li>Performance Testing</li>
+  <li>Usability Testing</li>
 </details>
 <details>
   <summary>Testing Methodologies</summary>
-  * Black-Box Testing
-  * Exploratory Testing
-  * Integation Testing
-  * End-to-End Testing
+  <li> Black-Box Testing</li>
+  <li>Exploratory Testing</li>
+  <li>Integation Testing</li>
+  <li>End-to-End Testing</li>
 </details>
 
 ## Credantials 
