@@ -18,9 +18,9 @@ AUT URL: https://tutorialsninja.com/demo/
 ## Scope
 <details>
   <summary>Features To Be Tested</summary>
-  - ### Sign Up
-  - ### Login
-  - ### Contact Us
+  <li>Sign Up</li>
+  <li>Login</li>
+  <li>Contact Us</li>
 </details>
 <details>
   <summary>Testing Types</summary>
