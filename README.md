@@ -2,7 +2,7 @@
 ## Objective
 #### To evaluate the functionality, performance and usability of the OpenCart demo e-commerce website.
 ## Tech Stack used in this project
-## **JavaScript**
+### **JavaScript**
 ## **Node.js** 
 ## Version Control and Testing Tools used:
 ### **Git**
