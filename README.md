@@ -2,17 +2,17 @@
 ## Objective
 #### To evaluate the functionality, performance and usability of the OpenCart demo e-commerce website.
 ## Tech Stack used in this project
-**##JavaScript**
-**##Node.js** 
+## **JavaScript**
+## **Node.js** 
 ## Version Control and Testing Tools used:
-**### Git**
-**### GitHub**
-**### Cypress**
-**### Visual Studio Code**
+### **Git**
+### **GitHub**
+### **Cypress**
+### **Visual Studio Code**
 ## Operating System and browsers used:
-**### Windows**
-**### Edge**
-**### Chrome**
+### **Windows**
+### **Edge**
+### **Chrome**
 ## Application Under Test
 AUT URL: https://tutorialsninja.com/demo/
 ## Scope
