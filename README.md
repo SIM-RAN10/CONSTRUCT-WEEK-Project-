@@ -87,7 +87,9 @@ AUT URL: https://tutorialsninja.com/demo/
 
 ## Recommendations & Suggestions
 ### Based on the evaluation of the Tutorials Ninja Web Application, the following improvements are suggested:
-<li>Enable Contact us Feature:</li>
+<li>Enable Contact us Feature: Enable the contact us functionality for more userfriendliness.</li>
+<li>Enhance Contact us Accessibility: Make the key features of contact us accessible on the homepage to improve user experience.</li>
+<li>Enable Dark mode Feature: Enable the dark mode functionality to allow users to work as per their preference. </li>
 
 
 
