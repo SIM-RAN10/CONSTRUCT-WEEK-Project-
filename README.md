@@ -90,6 +90,13 @@ AUT URL: https://tutorialsninja.com/demo/
 <li>Enable Contact us Feature: Enable the contact us functionality for more userfriendliness.</li>
 <li>Enhance Contact us Accessibility: Make the key features of contact us accessible on the homepage to improve user experience.</li>
 <li>Enable Dark mode Feature: Enable the dark mode functionality to allow users to work as per their preference. </li>
+### These improvements aim to enhance usability and overall user satisfaction.
+
+## About Me
+### I'm passionate learner with an interest in Software Development Engineer in Test. Currently, I'm working on personal projects and building my skills in Cypress, Selenium, Java etc. I'm eager to grow and collaborate on new opportunities.
+
+## Feedback
+### If you have any feedback,please reach out to me at sharmilasaren10@gmail.com.
 
 
 
