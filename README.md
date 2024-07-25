@@ -83,6 +83,11 @@ AUT URL: https://tutorialsninja.com/demo/
 | Total Number of Test Case|     28       |
 |  Passed Test Case        |     23       |
 |  Failed Test Case        |     05       |
+| Blocked/Skipped Test Case|     00       |
+
+## Recommendations & Suggestions
+### Based on the evaluation of the Tutorials Ninja Web Application, the following improvements are suggested:
+
 
 
 
