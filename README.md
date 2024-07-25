@@ -87,6 +87,7 @@ AUT URL: https://tutorialsninja.com/demo/
 
 ## Recommendations & Suggestions
 ### Based on the evaluation of the Tutorials Ninja Web Application, the following improvements are suggested:
+<li>Enable Contact us Feature:</li>
 
 
 
