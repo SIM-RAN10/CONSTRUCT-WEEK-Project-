@@ -38,10 +38,12 @@ AUT URL: https://tutorialsninja.com/demo/
 
 ## Credantials 
 <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px;">
+  `````````````````````````````````````````
   <pre>
     "EMAIL"    : "sharmilabnkwb@gmail.com"
     "Password" : " T@LY75bGR@b4S9"
   </pre>
+  `````````````````````````````````````````
 </div>
 
 ## Cypress Installation & Getting Started
