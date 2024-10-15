@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/08935a09-7a9e-49b4-987d-4f8636fd2da8)
 
 # TUTORIALS NINJA - the Demo E-commerce Website
 ## Objective
